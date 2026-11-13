@@ -45,6 +45,6 @@
 </p>
 
 <p align="center">
-<sub>Pixels in motion, powered by <a href="https://github.com/crosscore/contribution-gallery">contribution-gallery</a>.</sub>
+<sub>Pixels in motion, powered by <a href="https://github.com/42si/contribution-gallery">contribution-gallery</a>.</sub>
 
 </p>
